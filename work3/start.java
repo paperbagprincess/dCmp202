@@ -11,7 +11,7 @@ public class start {
 
         person person = new person();
 
-        person Student = new Student("Bingham", "somto", "654321", "BHU/22/04/09/0027");
+        person Student = new Student("Bingham", "eboh", "654321", "BHU/22/04/09/0009");
         
         person Staff = new Staff("Bingham", "abu", "654321", 667);
 
